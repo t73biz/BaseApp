@@ -1,0 +1,7 @@
+BaseApp is an application developed by T73Net to be used with CakePHP 1.3
+
+Features include:
+	*ACL
+	*User MVC
+	*Group MVC
+	*Admin tools for setting permissions
